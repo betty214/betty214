@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm betty214!
 - 🌱 I’m currently learning data structure, spring, digital forensics
 <br/>
 
