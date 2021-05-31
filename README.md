@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning data structure, spring, digital forensics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?betty214=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betty214)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
