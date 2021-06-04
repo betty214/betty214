@@ -1,5 +1,6 @@
 ### Hi! I'm betty214!
 - 🌱 I’m currently learning data structure, spring, digital forensics
+- :school_satchel:
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betty214&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
