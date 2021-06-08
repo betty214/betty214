@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning data structure, spring, digital forensics
 - :school_satchel: I'm studying [algorithm](https://betty214.github.io/minimal-mistakes/)
 
-### ⚡My Project
+### My Project⚡
 - [CurVelio](https://github.com/graduateprojectA/take1)
 <br/>
 
