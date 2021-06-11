@@ -9,7 +9,7 @@
 ### My Skill
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/spring-brightgreen?style=plastic&logo=spring"
+        src="http://img.shields.io/badge/spring-9cf?style=plastic&logo=spring"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
