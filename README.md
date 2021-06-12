@@ -4,7 +4,6 @@
 
 ### My Project
 - [CurVelio](https://github.com/graduateprojectA/take1)
-<br/>
 
 ### My Skill
 <a href="https://alpox.kr">
