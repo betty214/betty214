@@ -19,7 +19,7 @@
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/MySQL-9cf?style=flat&logo=MySQL"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="font-color:white; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <!--
 **betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
