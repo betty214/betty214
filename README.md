@@ -1,6 +1,6 @@
 ### Hi! I'm betty214!
 - 🌱 I’m currently learning data structure, spring, digital forensics
-- :school_satchel: I'm studying [algorithm](https://betty214.github.io/minimal-mistakes/)
+- 🌱 :school_satchel: I'm studying [algorithm](https://betty214.github.io/minimal-mistakes/)
 
 ### My Project
 - [CurVelio](https://github.com/graduateprojectA/take1)
