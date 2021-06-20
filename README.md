@@ -4,6 +4,7 @@
 
 ### My Project
 - [CurVelio](https://github.com/graduateprojectA/take1)
+- pearflower 2019
 
 ### My Skill
 <a href="https://alpox.kr">
@@ -21,6 +22,9 @@
         src="http://img.shields.io/badge/MySQL-9cf?style=flat&logo=MySQL"
         style="font-color:white; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+### My Copyright
+- CurVelio(C-2021-021925)
 <!--
 **betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
