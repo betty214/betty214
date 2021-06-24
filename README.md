@@ -6,6 +6,9 @@
 - [CurVelio](https://github.com/graduateprojectA/take1)
 - pearflower2019
 
+### My School
+- EWHA Womans University
+
 ### My Skill
 <a href="https://alpox.kr">
     <img 
