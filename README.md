@@ -4,7 +4,7 @@
 
 ### My Project
 - [CurVelio](https://github.com/graduateprojectA/take1)
-- pearflower2019
+- pearflower 2019
 
 ### My School
 - EWHA Womans University
