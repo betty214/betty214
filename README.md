@@ -1,4 +1,4 @@
-### Hi! I'm betty214!!
+### Hi! I'm betty214!
 🌱 I’m currently learning data structure, spring, digital forensics <br/>
 🌱 :school_satchel: I'm studying [algorithm](https://velog.io/@betty214)
 
