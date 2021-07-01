@@ -1,5 +1,5 @@
 ### Hi! I'm betty214!
-🌱 I’m currently learning data structure, spring, digital forensics <br/>
+🌱 I’m currently learning data structure, spring boot, digital forensics <br/>
 🌱 :school_satchel: I'm studying [algorithm](https://velog.io/@betty214)
 
 ### My Project
