@@ -27,8 +27,8 @@
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/MySQL-9cf?style=flat&logo=java"
-        style="font-color:white; height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/JAVA-purple?style=flat&logo=java"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 ### My Copyright
