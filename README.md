@@ -27,7 +27,7 @@
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/JAVA-green?style=flat&logo=java"
+        src="http://img.shields.io/badge/JAVA-red?style=flat&logo=java"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
