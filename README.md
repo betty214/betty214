@@ -32,6 +32,7 @@
 </a>
 
 ### My Awards
+이화여자대학교 [2021 졸업프로젝트] 장려상
 
 ### My Copyright
 - CurVelio(C-2021-021925)
