@@ -7,7 +7,7 @@
 - [CurVelio](https://github.com/graduateprojectA/take1)
 - pearflower 2019
 
-### My School
+### My School✏️
 - EWHA Womans University
 
 ### My Skill
