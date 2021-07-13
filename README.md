@@ -3,14 +3,14 @@
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 🔭 [resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)
 
-### My Project
+### My Project🧪
 - [CurVelio](https://github.com/graduateprojectA/take1)
 - pearflower 2019
 
 ### My School✏️
 - EWHA Womans University
 
-### My Skill
+### My Skill🔨
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/spring-green?style=flat&logo=spring"
@@ -32,10 +32,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### My Awards
+### My Awards🚩
 - 이화여자대학교 [2021 졸업프로젝트] 장려상
 
-### My Copyright
+### My Copyright🏷️
 - CurVelio(C-2021-021925)
 <!--
 **betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
