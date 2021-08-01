@@ -5,8 +5,8 @@
 🚀 [Now] Naver Boostcamp Challenge 2021
 
 ### My Project🧪
-- [CurVelio](https://github.com/graduateprojectA/take1)
 - pearflower 2019
+- [CurVelio](https://github.com/graduateprojectA/take1)
 
 ### My Skill🔨
 <a href="https://alpox.kr">
