@@ -1,7 +1,7 @@
 ### Hi! I'm betty214!!
 🌱 I’m currently learning data structure, spring boot, digital forensics <br/>
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
-📫 my [resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)<br/>
+📫 My [Resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)<br/>
 🚀 [Now] Naver Boostcamp Challenge 2021
 
 ### My Project🧪
