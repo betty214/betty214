@@ -33,7 +33,7 @@
 ### My Awards🚩
 - 이화여자대학교 [2021 졸업프로젝트] 장려상
 
-### My Copyright🏷️
+### My Copyright📝
 - CurVelio(C-2021-021925)
 <!--
 **betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
