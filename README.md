@@ -5,7 +5,7 @@
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
 ### My Project🧪
-- pearflower 2019
+- Pearflower 2019
 - [CurVelio](https://github.com/graduateprojectA/take1)
 
 ### My Skill🔨
