@@ -1,4 +1,4 @@
-### Hi! I'm betty214!
+### Hi! I'm betty214
 📫 My [Resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)<br/>
 🚀 [Now] Naver Boostcamp Challenge 2021
 🌱 I’m currently learning data structure, spring boot, digital forensics <br/>
