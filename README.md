@@ -8,7 +8,7 @@
 - Pearflower 2019
 - [CurVelio](https://github.com/graduateprojectA/take1)
 
-### My Skill🔨
+### My Skills🔨
 <a href="https://alpox.kr">
     <img 
         src="http://img.shields.io/badge/spring-green?style=flat&logo=spring"
