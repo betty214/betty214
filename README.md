@@ -1,6 +1,6 @@
 ### Hi! I'm betty214!
 📫 My [Resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)<br/>
-🚀 [Now] boostcamp 웹모바일 6기<br/>
+✨ [Now] boostcamp 웹모바일 6기<br/>
 🌱 I’m currently learning data structure, spring boot, digital forensics <br/>
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
@@ -36,7 +36,7 @@
 ### My Copyright📝
 - CurVelio(C-2021-021925)
 <!--
-**betty214/betty214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
