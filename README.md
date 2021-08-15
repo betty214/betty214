@@ -26,7 +26,7 @@
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/Node.js-#339933?style=flat&logo=Node.js"
+        src="http://img.shields.io/badge/Node.js-#339933?style=flat&logo=java"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
