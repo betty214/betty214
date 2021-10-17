@@ -1,4 +1,4 @@
-## Hi! I'm betty214😁
+## Hi! I'm betty214
 📫 My [Resume](https://drive.google.com/drive/folders/1Vl7wT4vVNnl5TmD2g07LZBsCrz1ezy78?usp=sharing)<br/>
 ✨ [Now] boostcamp 웹모바일 6기<br/>
 🌱 I’m currently learning Node.js, Spring Boot, React, digital forensics <br/>
