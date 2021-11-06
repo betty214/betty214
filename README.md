@@ -8,7 +8,6 @@
 - Pearflower 2019
 - [CurVelio](https://github.com/graduateprojectA/take1)
 
-
 ### My Skills🔨
 <a href="https://alpox.kr">
     <img 
