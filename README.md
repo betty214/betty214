@@ -7,7 +7,7 @@
 ### My Project🧪
 - Pearflower 2019
 - [CurVelio](https://github.com/graduateprojectA/take1)
-- bmPuzzle
+- [bmPuzzle](https://github.com/boostcampwm-2021/web16-bmPuzzle)
 
 ### My Skills🔨
 <a href="https://alpox.kr">
