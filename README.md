@@ -1,4 +1,4 @@
-## Hi! I'm betty214 
+## Hi! I'm betty214!
 📫 My [Resume](https://programmers.co.kr/pr/bettyjang_9944)<br/>
 :pencil: My [Blog](https://velog.io/@betty214)<br/>
 ✨ [Now] boostcamp 웹모바일 6기<br/>
