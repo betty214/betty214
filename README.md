@@ -1,10 +1,11 @@
 ## Hi! I'm betty214!
 📫 My [Resume](https://programmers.co.kr/pr/bettyjang_9944)<br/>
 :pencil: My [Blog](https://velog.io/@betty214)<br/>
-✨ [Now] boostcamp 웹모바일 6기<br/>
 🌱 I’m currently learning Node.js, Spring Boot, React, Docker<br/>
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
+### My Education
+- boostcamp 웹모바일 6기<br/>
 ### My Project🧪
 - Pearflower 2019
 - [CurVelio](https://github.com/graduateprojectA/take1)
