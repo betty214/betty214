@@ -5,6 +5,7 @@
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
 ### My Education
+- Google ML study jam<br/>
 - boostcamp 웹모바일 6기<br/>
 
 ### My Project🧪
