@@ -5,7 +5,7 @@
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
 ### My Education
-- Google Cloud Study Jam 머신러닝 중급반<br/>
+- Google Cloud Study Jam 머신러닝 입문반<br/>
 - boostcamp 웹모바일 6기<br/>
 
 ### My Project🧪
@@ -45,6 +45,8 @@
 - CurVelio(C-2021-021925)
 
 
+### What I read Now :book:
+- 자바 트러블슈팅
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
