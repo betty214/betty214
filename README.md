@@ -46,7 +46,7 @@
 
 
 ### What I read Now :book:
-- 자바 트러블슈팅
+- [자바 트러블슈팅](http://www.yes24.com/Product/Goods/84937877)
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
