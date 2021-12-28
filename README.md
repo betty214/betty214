@@ -45,7 +45,7 @@
 - CurVelio(C-2021-021925)
 
 ### What I read Now :book:
-- [명품 JAVA Programming](https://www.booksr.co.kr/html/book/book.asp?seq=697068)
+- [명품 JAVA Programming 개정4판](https://www.booksr.co.kr/html/book/book.asp?seq=697068)
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
