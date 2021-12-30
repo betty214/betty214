@@ -44,6 +44,9 @@
 ### My Copyright📝
 - CurVelio(C-2021-021925)
 
+### My Certificate✨
+- 정보처리기사
+
 ### What I read Now :book:
 - [명품 JAVA Programming 개정4판](https://www.booksr.co.kr/html/book/book.asp?seq=697068)
 
