@@ -4,7 +4,7 @@
 🌱 I’m learning Java, Spring, Data Structure, Database, Git<br/>
 :school_satchel: I'm studying [algorithm](https://www.notion.so/challenger214/Challenger214-18da18d53692421ba06e8120307dd00b)<br/>
 
-### My Education
+### My Education :school:
 - Google Cloud Study Jam 머신러닝 입문반<br/>
 - boostcamp 웹모바일 6기<br/>
 
