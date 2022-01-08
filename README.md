@@ -1,4 +1,4 @@
-## Hi! I'm betty214!
+## Hello! I'm betty214!
 📫 My [Resume](https://programmers.co.kr/pr/bettyjang_9944)<br/>
 :pencil: My [Blog](https://velog.io/@betty214)<br/>
 🌱 I’m learning Java, Data Structure, Database, Git<br/>
