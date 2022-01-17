@@ -7,6 +7,7 @@
 ### My Education:school:
 - Google Cloud Study Jam 머신러닝 입문반<br/>
 - boostcamp 웹모바일 6기<br/>
+- [now] 삼성 sds 2022 동계 알고리즘 특강<br/>
 
 ### My Project🧪
 - Pearflower 2019
