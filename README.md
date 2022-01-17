@@ -10,20 +10,20 @@
 - [now] 삼성 sds 2022 동계 알고리즘 특강<br/>
 
 ### My Project🧪
-- Pearflower 2019
-- [CurVelio](https://github.com/graduateprojectA/take1)
-- [HealthCare](https://github.com/EWHA18/Healthcare)
 - [bmPuzzle](https://github.com/boostcampwm-2021/web16-bmPuzzle)
+- [HealthCare](https://github.com/EWHA18/Healthcare)
+- [CurVelio](https://github.com/graduateprojectA/take1)
+- Pearflower 2019
 
 ### My Skills🔨
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/spring-green?style=flat&logo=spring"
+        src="http://img.shields.io/badge/JAVA-purple?style=flat&logo=java"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/react-blue?style=flat&logo=react"
+        src="http://img.shields.io/badge/spring-green?style=flat&logo=spring"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
@@ -36,11 +36,7 @@
         src="http://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/JAVA-purple?style=flat&logo=java"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 
 ### My Copyright📝
 - CurVelio(C-2021-021925)
