@@ -45,7 +45,7 @@
 - 정보처리기사
 
 ### What I read Now :book:
-- [명품 JAVA Programming 개정4판](https://www.booksr.co.kr/html/book/book.asp?seq=697068)
+- 토비의 스프링 3.1
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
