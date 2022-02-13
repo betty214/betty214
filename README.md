@@ -45,7 +45,7 @@
 - 정보처리기사
 
 ### What I read Now :book:
-- 토비의 스프링 3.1 2권
+- 토비의 스프링 3.1 2권 (~p.235)
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
