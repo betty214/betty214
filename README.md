@@ -44,7 +44,7 @@
 ### My Certificate✨
 - 정보처리기사
 
-### What I read Now :book:
+### Today I learn :book:
 - 토비의 스프링 3.1 2권 (~p.235)
 
 <!--
