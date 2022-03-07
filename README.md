@@ -45,7 +45,8 @@
 - 정보처리기사
 
 ### Today I learn :book:
-- 토비의 스프링 3.1 2권 (~p.235)
+- 토비의 스프링 3.1 2권
+- 모던 리눅스 관리
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
