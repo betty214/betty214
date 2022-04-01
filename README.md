@@ -7,7 +7,7 @@
 ### My Education:school:
 - Google Cloud Study Jam 머신러닝 입문반<br/>
 - boostcamp 웹모바일 6기<br/>
-- 삼성 SDS 2021 동계 알고리즘 특강<br/>
+- 삼성 SDS 2021 대학생 동계 알고리즘 특강<br/>
 
 ### My Project🧪
 - [bmPuzzle](https://github.com/boostcampwm-2021/web16-bmPuzzle)
