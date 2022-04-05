@@ -37,7 +37,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
 ### My Copyright📝
 - CurVelio(C-2021-021925)
 
