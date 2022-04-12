@@ -13,7 +13,6 @@
 - [bmPuzzle](https://github.com/boostcampwm-2021/web16-bmPuzzle)
 - [HealthCare](https://github.com/EWHA18/Healthcare)
 - [CurVelio](https://github.com/graduateprojectA/take1)
-- Pearflower 2019
 
 ### My Skills🔨
 <a href="https://alpox.kr">
