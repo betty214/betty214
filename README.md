@@ -40,7 +40,7 @@
 - CurVelio(C-2021-021925)
 
 ### My Certificate✨
-- 정보처리기사(2021)
+- 정보처리기사
 
 <!--
 **betty214/betty214** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
